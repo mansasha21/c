@@ -1,2 +1,2 @@
-# qsort for int
-qsort for int
+#some tasks
+qsort, merge, base64, linked list, dlinled list
